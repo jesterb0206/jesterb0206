@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesterb0206&theme=gruvbox&show_icons=true&locale=en" alt="jesterb0206" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesterb0206&" alt="jesterb0206" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesterb0206&&theme=gruvbox" alt="jesterb0206" /></p>
 
 <!---
 jesterb0206/jesterb0206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
