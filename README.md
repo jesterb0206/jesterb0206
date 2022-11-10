@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesterb0206&hide_border=true&theme=synthwave&show_icons=true&locale=en" alt="jesterb0206" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&theme=radical&hide_border=true&border_radius=10&background=0094A0&ring=FF8888&fire=FF8888&stroke=48FF50&currStreakNum=FFF000&sideLabels=FF8888&currStreakLabel=FFF000&dates=4DFEFF&sideNums=FFF000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&theme=radical&hide_border=true&border_radius=10&background=013E4E&ring=FF8888&fire=FF8888&stroke=48FF50&currStreakNum=FFF000&sideLabels=FF8888&currStreakLabel=FFF000&dates=FF8650&sideNums=FFF000)](https://git.io/streak-stats)
 
 <!---
 jesterb0206/jesterb0206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
