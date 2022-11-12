@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesterb0206&hide_border=true&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="jesterb0206" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesterb0206&hide_border=true&theme=synthwave&show_icons=true&locale=en" alt="jesterb0206" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesterb0206&title_color=DA7885&text_color=E1B2A2&bg_color=2F100D&hide_border=true&locale=en&border_radius=10" alt="jesterb0206" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&hide_border=true&border_radius=10&background=013E4E&stroke=48FF50&ring=FF8888&fire=FF8888&currStreakNum=FFF000&sideNums=FFF000&currStreakLabel=FFF000&sideLabels=FF8888&dates=FF8650)](https://git.io/streak-stats)
 
