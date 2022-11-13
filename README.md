@@ -25,7 +25,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&hide_border=true&border_radius=5&theme=submarine-flowers)](https://git.io/streak-stats)
 
-<h3 align="center"> The GitHub Streak theme you see above was one I created and added to Jonah Lawrence's (DenverCoder1) github-readme-streak-stats repository! If you like it and wish to add it to your profile README.md click on the link below.<h3>
+<h3 align="center"> The GitHub Streak theme you see above (submarine-flowers) was one I created and added to Jonah Lawrence's (DenverCoder1) github-readme-streak-stats repository! If you like it and wish to add it to your profile README.md click on the link below.<h3>
 
 <p align="center"> <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener">GitHub README Streak Stats repository </a> </p>
 
