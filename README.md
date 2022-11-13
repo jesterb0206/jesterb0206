@@ -23,7 +23,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesterb0206&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en&border_radius=5" alt="jesterb0206" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&hide_border=true&border_radius=5&background=013E4E&stroke=48FF50&ring=FF8888&fire=FF8888&currStreakNum=FFF000&sideNums=FFF000&currStreakLabel=FFF000&sideLabels=FF8888&dates=FF8650)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&hide_border=true&border_radius=5&theme=submarine-flowers)](https://git.io/streak-stats)
+
+<h3 align="center"> The GitHub Streak theme you see above was one I created and added to Jonah Lawrence's (DenverCoder1) github-readme-streak-stats repository! If you like it and wish to add it to your profile README.md click on the link below.<h3>
+
+<p align="center"> <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener">GitHub README Streak Stats repository </a> </p>
 
 <!---
 jesterb0206/jesterb0206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
