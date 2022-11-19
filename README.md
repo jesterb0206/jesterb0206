@@ -23,9 +23,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesterb0206&hide_border=true&border_radius=5&theme=date_night&locale=en&show_icons=true" alt="jesterb0206" /></p>
 
+<h3 align="center"> The GitHub README Stats theme you see above (date_night) was one I created and added to Anurag Hazra's (anuraghazra) github-readme-stats repository! If you like it and wish to add it to your profile README.md click on the link below.<h3>
+
+<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">GitHub README Stats repository </a> </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jesterb0206&hide_border=true&border_radius=5&theme=submarine-flowers)](https://git.io/streak-stats)
 
-<h3 align="center"> The GitHub Streak theme you see above (submarine-flowers) was one I created and added to Jonah Lawrence's (DenverCoder1) github-readme-streak-stats repository! If you like it and wish to add it to your profile README.md click on the link below.<h3>
+<h3 align="center"> The GitHub README Streak Stats theme you see above (submarine-flowers) was one I created and added to Jonah Lawrence's (DenverCoder1) github-readme-streak-stats repository! If you like it and wish to add it to your profile README.md click on the link below.<h3>
 
 <p align="center"> <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener">GitHub README Streak Stats repository </a> </p>
 
