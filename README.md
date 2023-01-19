@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Bradley</h1>
-<h3 align="center">A current University of Washington coding boot camp student who's passionate about front-end development and UI design!</h3>
+<h3 align="center">A full-stack developer who's passionate about front-end development and UI design!</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning the **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://jesterb0206.github.io/portfolio-website/index.html](https://jesterb0206.github.io/portfolio-website/index.html)
 
