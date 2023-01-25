@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **State (Context API & Redux)**
 
-- 👨‍💻 All of my projects are available at [https://jesterb0206.github.io/portfolio-website/index.html](https://jesterb0206.github.io/portfolio-website/index.html)
+- 👨‍💻 All of my projects are available at [Bradley Jester's Portfolio](https://jesterb0206.github.io/react-portfolio/)
 
 - 💬 Ask me about **Node.js, JavaScript (ES6), and CSS3 🧙🏼‍♂️👨🏼‍🎨**
 
