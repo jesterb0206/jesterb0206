@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Bradley Jester's Portfolio](https://jesterb0206.github.io/react-portfolio/)
 
-- 💬 Ask me about **Node.js, JavaScript (ES6), and CSS3 🧙🏼‍♂️👨🏼‍🎨**
+- 💬 Ask me about **JavaScript (ES6) and CSS3 🧙🏼‍♂️👨🏼‍🎨**
 
 - 📫 You can reach me at **jesterb@seattleu.edu**
 
