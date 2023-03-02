@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript (ES6) and CSS3 🧙🏼‍♂️👨🏼‍🎨**
 
-- 📫 You can reach me at **jesterb@seattleu.edu**
+- 📫 You can reach me at **bradleyjester0@gmail.com**
 
 - ⚡ Fun facts: **when I was 9 years old I met Bono from U2 while traveling in Mexico City! 🎤😎 I've also been blessed to have met former Seattle Mariner great Ichiro Suzuki! ⚾️ When I'm not coding I love opening up Logic Pro and trying my hand at producing electronic music. 🎧🎹💻**
 
