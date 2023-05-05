@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Bradley</h1>
 <h3 align="center">A full-stack developer who's passionate about front-end development and UI design!</h3>
 
-- 🌱 I’m currently learning **Amazon Web Services (AWS)**
+- 🌱 I’m currently learning **GraphQL, React & Redux**
 
 - 👨‍💻 All of my projects are available at [Bradley Jester's Portfolio](https://jesterb0206.github.io/react-portfolio/)
 
