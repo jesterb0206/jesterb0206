@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **bradleyjester0@gmail.com**
 
-- ⚡ Fun facts: **when I was 9 years old I met Bono from U2 while traveling in Mexico City! 🎤😎 I've also been blessed to have met former Seattle Mariner great Ichiro Suzuki! ⚾️ When I'm not coding I love opening up Logic Pro and trying my hand at producing electronic music. 🎧🎹💻**
+- ⚡ Fun facts: **when I was 9 years old I met Bono from U2 while traveling in Mexico City! 😎 I've also been blessed to have met former Seattle Mariner great Ichiro Suzuki! ⚾️ When I'm not coding I love opening up Logic Pro and trying my hand at producing electronic music. 🎧🎹💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
